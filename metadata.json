@@ -1,0 +1,6 @@
+{
+  "name": "SafeGo",
+  "description": "SafeGo adalah prototype aplikasi ride-hailing dengan fokus keamanan, kebebasan memilih gender pengemudi, sistem penawaran harga interaktif, dan Safety Score anonim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
